@@ -1,0 +1,12 @@
+.askBlock{
+    max-width: 600px;
+    margin: 0 auto;
+    display: grid;
+    gap: 10px; 
+}
+
+.selectBlock{
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
+}
